@@ -1,8 +1,6 @@
 numpy
 flask
 gunicorn
-pandas
-sklearn
 tensorflow-cpu
 keras
 opencv-python
